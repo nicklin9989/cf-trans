@@ -1,2 +1,1 @@
-# cf-transform
-# cf-trans
+# 這是一個攝氏溫度轉換成華氏溫度的檔案
